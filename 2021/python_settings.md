@@ -22,7 +22,7 @@ $ pip install --target=_지정경로_ package_name
 ```
 #### --target옵션으로 인스톨할 경우, 기존 파일을 덮어씌우지 않으므로 버전 업그레이드, 덮어씌우기 등을 원할 때에는 --upgrade옵션을 추가해서 실행
 ```
-$ pip install --target=c:\python38\lib\site-packages webdriver_manager --upgrade
+$ pip install --target=_지정경로_ package_name --upgrade
 ```
 
 ##### TODO : Selenium과 webdriver_manager의 관계와 사용법
