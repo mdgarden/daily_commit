@@ -1,6 +1,6 @@
-# 파이썬의 실행 관련 문제와 해결법 모음
+## 파이썬의 실행 관련 문제와 해결법 모음
 
-## 파이썬의 설치 경로와 라이브러리의 경로 확인 방법
+### 파이썬의 설치 경로와 라이브러리의 경로 확인 방법
 
 - 설치는 되어있는데 라이브러리가 import 되지 않을때
 - 실행할 때 경로 관련 문제가 발생할 때
@@ -27,3 +27,6 @@ $ pip install --target=_지정경로_ package_name --upgrade
 
 ##### TODO : Selenium과 webdriver_manager의 관계와 사용법
  - [참고 링크](https://stackoverflow.com/questions/55592775/webdriver-manager-start-step-is-getting-stuck-while-executing-in-cmd)
+
+ ## 파이썬의 함수의 속성과 약속
+ - [34.2 속성 사용하기](https://dojang.io/mod/page/view.php?id=2373)
