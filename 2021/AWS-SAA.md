@@ -10,3 +10,23 @@
 ## 부족한 개념 범위
 - Redshift 및 데이터베이스의 구체적인 부분
 - SQS와 DB간의 유연한 결합이 의미하는 것
+- 미리 서명된 URL로 S3에 객체를 업로드 한다는게 무슨뜻인지? 웹서버에 어떻게 부하가 가지않는 방식인건지
+
+
+## 완료 리스트
+
+### #100
+```
+- 스케쥴에 기반한 Auto Scailing
+- Load Balancer란
+- Provisioning
+- 3 Tier Architecture
+- ACL, NACL
+- Amazon S3와 Storage Gateway의 네이티브 암호화
+- IAM의 엑세스 키 사용(비추천)
+- SSH의 포트번호는 22, TCP의 포트번호는 43
+```
+- Auto Scailing이 정확하게 무엇을 스케일링 하는 것인가? EC2와 어떤 관계인가? 로드밸런서와 무엇이 다른가?
+- 포트가 무엇인지는 알겠는데, SSH와 TCP의 레이어와 포트가 다른 것은 무엇을 의미하는지?
+
+### #99
