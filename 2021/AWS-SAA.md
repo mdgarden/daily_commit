@@ -22,7 +22,7 @@
 - Provisioning
 - 3 Tier Architecture
 - ACL, NACL
-- Amazon S3와 Storage Gateway의 네이티브 암호화
+- 네이티브 암호화 : Amazon S3, Storage Gateway, Dyanamo DB
 - IAM의 엑세스 키 사용(비추천)
 - SSH의 포트번호는 22, TCP의 포트번호는 43
 ```
@@ -30,3 +30,12 @@
 - 포트가 무엇인지는 알겠는데, SSH와 TCP의 레이어와 포트가 다른 것은 무엇을 의미하는지?
 
 ### #99
+```
+- 미리 서명된 URL로 S3에 업로드 하기
+- Microsoft RDP(Remote Desktop Protocol)를 사용하여 Windows 인스턴스에 원격 접속, 로그인
+- EC2 인스턴스에 IMA롤을 어태치하는 것으로 인증 정보를 안전하게 넘길 수 있음.
+```
+
+- S3는 데이터 베이스인가? 다른 데이터 베이스와 무엇이 다른가? File Storage와 Database의 차이점은?
+
+### #98
