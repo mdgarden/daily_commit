@@ -18,12 +18,14 @@
     - 프록시
     - 네트워크 용량
     - Amzon의 페일오버 테크놀로지
-    - ElastiCache
     - Amazon API Gateway
-    - Amazon EMR
     - ALB의 패스 베이스 루팅 기능
     - Route 53의 정확한 역할
+    - Amazon EMR
     - Amazon EFS
+    - Amazon ECS
+    - Amazon ElastiCache
+    - Amazon Elastic Beanstalk
 
 
 ## 완료 리스트
