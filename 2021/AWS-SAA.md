@@ -33,6 +33,8 @@
 - ~~미리 서명된 URL로 S3에 객체를 업로드 한다는게 무슨뜻인지? 웹서버에 어떻게 부하가 가지않는 방식인건지~~
 - Amazon ElastiCache
 - Amazon Elastic Beanstalk
+- Amazon EBS의 종류 4가지
+
 ### #100
 ```
 - 스케쥴에 기반한 Auto Scailing
