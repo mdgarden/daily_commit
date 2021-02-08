@@ -10,7 +10,6 @@
 ## 부족한 개념 범위
 - Redshift 및 데이터베이스의 구체적인 부분
 - RDS 성능에 영향을 미치는 요소
-- CloudWatch/Trail의 차이
 - S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
 - S3 암호화 보존법
 - Lambda함수와 보안
@@ -34,6 +33,7 @@
 - Amazon ElastiCache
 - Amazon Elastic Beanstalk
 - Amazon EBS의 종류 4가지
+- CloudWatch/Trail의 차이
 
 ### #100
 ```
