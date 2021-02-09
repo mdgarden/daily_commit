@@ -24,6 +24,7 @@
     - Amazon EFS
     - Amazon ECS
     - Amazon Kinesis Data Firehose/Data Streams
+    - RAID 5종류
 
 
 
