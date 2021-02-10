@@ -4,6 +4,7 @@
 - 시험 응시 예정일 : 2월 27일
 
 ## 참고 사이트 정리
+- [AWS Aurora 도입전에 알아야 할 몇가지 사실](https://link.medium.com/uH6SmWivLdb)
 
 ## 개인적인 의문사항 정리
 
@@ -11,9 +12,9 @@
 - Redshift 및 데이터베이스의 구체적인 부분
 - RDS 성능에 영향을 미치는 요소
 - S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
-- S3 암호화 보존법
+- S3 암호화 보존법/KMS
 - Lambda함수와 보안
-- 단어 공부 목록
+- 단어 / 개념 공부 목록
     - 프록시
     - 네트워크 용량
     - Amzon의 페일오버 테크놀로지
@@ -24,8 +25,8 @@
     - Amazon ECS
     - Amazon Kinesis Data Firehose/Data Streams
     - RAID 5종류
-    - Amazon Aurora
     - Amazon Simple Workflow Service
+    - IAM
 
 
 
@@ -37,6 +38,8 @@
 - Amazon EBS의 종류 4가지
 - CloudWatch/Trail의 차이
 - Route 53의 정확한 역할
+- 인바운드 아웃바운드 (반대로 알고 있었음...)
+- Amazon Aurora : 멀티 AZ 지원 불가
 
 ### #100
 ```
