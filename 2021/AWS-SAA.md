@@ -24,6 +24,8 @@
     - Amazon ECS
     - Amazon Kinesis Data Firehose/Data Streams
     - RAID 5종류
+    - Amazon Aurora
+    - Amazon Simple Workflow Service
 
 
 
