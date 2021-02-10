@@ -19,7 +19,6 @@
     - Amzon의 페일오버 테크놀로지
     - Amazon API Gateway
     - ALB의 패스 베이스 루팅 기능
-    - Route 53의 정확한 역할
     - Amazon EMR
     - Amazon EFS
     - Amazon ECS
@@ -35,6 +34,7 @@
 - Amazon Elastic Beanstalk
 - Amazon EBS의 종류 4가지
 - CloudWatch/Trail의 차이
+- Route 53의 정확한 역할
 
 ### #100
 ```
