@@ -22,11 +22,13 @@
     - ALB의 패스 베이스 루팅 기능
     - Amazon EMR
     - Amazon EFS
-    - Amazon ECS
     - Amazon Kinesis Data Firehose/Data Streams
     - RAID 5종류
     - Amazon Simple Workflow Service
     - IAM
+    - Amazon Directory Service
+    - Amazon WorkSpaces
+    - URI와 URL의 정확한 차이
 
 
 
@@ -40,6 +42,8 @@
 - Route 53의 정확한 역할
 - 인바운드 아웃바운드 (반대로 알고 있었음...)
 - Amazon Aurora : 멀티 AZ 지원 불가
+- 도커, 쿠버네티스, Amazon ECS/Fargate/EKS/ECR
+- 서버리스, Lambda 함수, 트리거, 
 
 ### #100
 ```
