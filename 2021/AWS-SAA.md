@@ -19,7 +19,7 @@
     - 네트워크 용량
     - Amzon의 페일오버 테크놀로지
     - Amazon API Gateway
-    - ALB의 패스 베이스 루팅 기능
+    - ALB의 패스 베이스 루팅 기능(경로 기반 라우팅)
     - Amazon EMR
     - Amazon EFS
     - Amazon Kinesis Data Firehose/Data Streams
@@ -30,20 +30,21 @@
     - Amazon WorkSpaces
     - URI와 URL의 정확한 차이
 
-
+## 봤는데 모르겠음
+- CloudWatch/Trail과 ELB의 액세스 로그의 차이
 
 ## 완료 리스트
-- ~~SQS와 DB간의 유연한 결합이 의미하는 것~~
-- ~~미리 서명된 URL로 S3에 객체를 업로드 한다는게 무슨뜻인지? 웹서버에 어떻게 부하가 가지않는 방식인건지~~
+- SQS와 DB간의 유연한 결합이 의미하는 것
+- 미리 서명된 URL로 S3에 객체를 업로드 한다는게 무슨뜻인지? 웹서버에 어떻게 부하가 가지않는 방식인건지
 - Amazon ElastiCache
 - Amazon Elastic Beanstalk
 - Amazon EBS의 종류 4가지
-- CloudWatch/Trail의 차이
 - Route 53의 정확한 역할
 - 인바운드 아웃바운드 (반대로 알고 있었음...)
 - Amazon Aurora : 멀티 AZ 지원 불가
 - 도커, 쿠버네티스, Amazon ECS/Fargate/EKS/ECR
-- 서버리스, Lambda 함수, 트리거, 
+- 서버리스, Lambda 함수, 트리거
+- Amazon EBS, EFS, S3의 차이점과 블록 스토리지, 객체 스토리지, 파일 스토리지의 차이점
 
 ### #100
 ```
