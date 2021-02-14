@@ -11,8 +11,6 @@
 ## 부족한 개념 범위
 - Redshift 및 데이터베이스의 구체적인 부분
 - RDS 성능에 영향을 미치는 요소
-- S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
-- S3 암호화 보존법/KMS
 - Lambda함수와 보안
 - 단어 / 개념 공부 목록
     - 프록시
@@ -29,6 +27,7 @@
     - Amazon Directory Service
     - Amazon WorkSpaces
     - URI와 URL의 정확한 차이
+    - 스루풋이란
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
@@ -45,6 +44,8 @@
 - 도커, 쿠버네티스, Amazon ECS/Fargate/EKS/ECR
 - 서버리스, Lambda 함수, 트리거
 - Amazon EBS, EFS, S3의 차이점과 블록 스토리지, 객체 스토리지, 파일 스토리지의 차이점
+- S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
+- S3 암호화 보존법/KMS/서버사이드 암호화/클라이언트 암호화
 
 ### #100
 ```
