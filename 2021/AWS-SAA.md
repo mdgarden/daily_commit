@@ -28,6 +28,8 @@
     - Amazon WorkSpaces
     - URI와 URL의 정확한 차이
     - 스루풋이란
+    - Amazon CloudFormation
+    - Egress-Only 인터넷 게이트웨이
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
@@ -46,6 +48,11 @@
 - Amazon EBS, EFS, S3의 차이점과 블록 스토리지, 객체 스토리지, 파일 스토리지의 차이점
 - S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
 - S3 암호화 보존법/KMS/서버사이드 암호화/클라이언트 암호화
+
+## 시험 직전 복습 리스트
+- S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
+
+
 
 ### #100
 ```
