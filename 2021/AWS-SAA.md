@@ -19,7 +19,6 @@
     - Amazon API Gateway
     - ALB의 패스 베이스 루팅 기능(경로 기반 라우팅)
     - Amazon EMR
-    - Amazon EFS
     - Amazon Kinesis Data Firehose/Data Streams
     - RAID 5종류
     - Amazon Simple Workflow Service
@@ -30,6 +29,17 @@
     - 스루풋이란
     - Amazon CloudFormation
     - Egress-Only 인터넷 게이트웨이
+    - AWS Secrets Manager
+    - AWS DataSync/StrogeGateway/Direct Connect Gateway 차이
+    - AWS TrasitGateway
+    - AWS Glue
+    - Amazon Athena
+    - AWS step
+    - Amazon kinsis Data Firehose
+    - Amazon FSx fr Lustre
+    - Amazon VPC 게이트웨이형/인터페이스형 + ENI
+    - AWS Snowball
+    - CORS 크로스 오리진 리소스 쉐어링
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
