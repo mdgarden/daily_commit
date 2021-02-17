@@ -63,7 +63,9 @@
 
 ## 시험 직전 복습 리스트
 - S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
-
+- AWS DataSync/StrogeGateway/Direct Connect Gateway 차이
+- NAT 게이트웨이의 구성
+- ENI
 
 
 ### #100
