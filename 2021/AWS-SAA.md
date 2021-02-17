@@ -31,6 +31,8 @@
     - Amazon VPC 게이트웨이형/인터페이스형 + ENI
     - AWS Snowball
     - CORS 크로스 오리진 리소스 쉐어링
+    - 피어링 접속
+    - AWS App mesh
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
