@@ -15,7 +15,6 @@
 - 단어 / 개념 공부 목록
     - RAID 5종류
     - Amazon Simple Workflow Service
-    - IAM
     - Amazon Directory Service
     - Amazon WorkSpaces
     - URI와 URL의 정확한 차이
@@ -26,7 +25,6 @@
     - AWS DataSync/StrogeGateway/Direct Connect Gateway 차이
     - AWS TrasitGateway
     - AWS step
-    - Amazon kinsis Data Firehose
     - Amazon FSx fr Lustre
     - Amazon VPC 게이트웨이형/인터페이스형 + ENI
     - AWS Snowball
@@ -36,6 +34,9 @@
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
+- IAM
+- Amazon kinsis Data Firehose
+
 
 ## 완료 리스트
 - SQS와 DB간의 유연한 결합이 의미하는 것
