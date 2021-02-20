@@ -34,7 +34,6 @@
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
-- IAM
 - Amazon kinsis Data Firehose
 
 
@@ -67,6 +66,7 @@
 - AWS DataSync/StrogeGateway/Direct Connect Gateway 차이
 - NAT 게이트웨이의 구성
 - ENI
+- IAM
 
 
 ### #100
