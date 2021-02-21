@@ -31,6 +31,9 @@
     - CORS 크로스 오리진 리소스 쉐어링
     - 피어링 접속
     - AWS App mesh
+    - 워크로드
+    - FQDN
+    - CNAME
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
