@@ -19,7 +19,6 @@
     - Amazon WorkSpaces
     - URI와 URL의 정확한 차이
     - 스루풋이란
-    - Amazon CloudFormation
     - Egress-Only 인터넷 게이트웨이
     - AWS Secrets Manager
     - AWS DataSync/StrogeGateway/Direct Connect Gateway 차이
@@ -31,7 +30,6 @@
     - CORS 크로스 오리진 리소스 쉐어링
     - 피어링 접속
     - AWS App mesh
-    - 워크로드
     - FQDN
     - CNAME
 
@@ -63,6 +61,10 @@
 - Amazon Kinesis Data Firehose/Data Streams
 - AWS Glue
 - Amazon Athena
+- 워크로드
+- Amazon CloudFormation
+
+
 
 ## 시험 직전 복습 리스트
 - S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
