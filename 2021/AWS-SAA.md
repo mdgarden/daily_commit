@@ -19,17 +19,12 @@
     - Amazon WorkSpaces
     - URI와 URL의 정확한 차이
     - 스루풋이란
-    - Egress-Only 인터넷 게이트웨이
     - AWS Secrets Manager
     - AWS DataSync/StrogeGateway/Direct Connect Gateway 차이
-    - AWS TrasitGateway
+    - AWS TransitGateway
     - AWS step
-    - Amazon FSx fr Lustre
     - Amazon VPC 게이트웨이형/인터페이스형 + ENI
-    - AWS Snowball
-    - CORS 크로스 오리진 리소스 쉐어링
     - 피어링 접속
-    - AWS App mesh
     - FQDN
     - CNAME
 
@@ -63,6 +58,11 @@
 - Amazon Athena
 - 워크로드
 - Amazon CloudFormation
+- AWS App mesh    
+- CORS 크로스 오리진 리소스 쉐어링
+- AWS Snowball
+- Amazon FSx fr Lustre
+- Egress-Only 인터넷 게이트웨이
 
 
 
