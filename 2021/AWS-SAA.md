@@ -27,6 +27,11 @@
     - 피어링 접속
     - FQDN
     - CNAME
+    - ALB Connection Draining
+- AWS Directory Service
+- Active Directory
+- AD Connector
+- cloudFormation vs Elatic Beanstalk
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
