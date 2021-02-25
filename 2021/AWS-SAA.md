@@ -49,8 +49,10 @@
 - 도커, 쿠버네티스, Amazon ECS/Fargate/EKS/ECR
 - 서버리스, Lambda 함수, 트리거
 - Amazon EBS, EFS, S3의 차이점과 블록 스토리지, 객체 스토리지, 파일 스토리지의 차이점
-- S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
-- S3 암호화 보존법/KMS/서버사이드 암호화/클라이언트 암호화
+- S3 관련
+    - S3 버켓 폴리시와 IAM폴리시의 차이, 우선도
+    - S3 암호화 보존법/KMS/서버사이드 암호화/클라이언트 암호화
+    - S3 Transferr Acceleration
 - 프록시
 - 네트워크 용량
 - Amzon의 페일오버 테크놀로지
@@ -69,7 +71,7 @@
 - Egress-Only 인터넷 게이트웨이
 - cloudFormation vs Elatic Beanstalk
 - Amazon Kinesis Data Streams vs Firehose vs analytics 차이
-
+- Code deploy vs code pipline vs code build 차이
 
 
 ## 시험 직전 복습 리스트
