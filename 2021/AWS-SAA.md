@@ -31,7 +31,6 @@
 - AWS Directory Service
 - Active Directory
 - AD Connector
-- cloudFormation vs Elatic Beanstalk
 
 ## 봤는데 모르겠음
 - CloudWatch/Trail과 ELB의 액세스 로그의 차이
@@ -68,6 +67,8 @@
 - AWS Snowball
 - Amazon FSx fr Lustre
 - Egress-Only 인터넷 게이트웨이
+- cloudFormation vs Elatic Beanstalk
+- Amazon Kinesis Data Streams vs Firehose vs analytics 차이
 
 
 
