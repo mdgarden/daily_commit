@@ -91,6 +91,7 @@
 - AWS Snowballmobile
     - 엑사바이트 규모의 데이터 이행이 필요할 때
     - 댑따 큰 트럭이 옮겨줌
+    - [한번 보면 절대 못잊음...](https://www.youtube.com/watch?t=64&v=8vQmTZTq7nw&feature=youtu.be)
 
 - AWS Transit Gateway *글로벌 규모로 빠르게 확장할 때, 수요 급증에 원활하게 대응 가능*
     - 중앙 허브를 통해 VPC와 온프레미스 네트워크를 연결, 복잡한 피어링 관계를 제거하여 네트워크를 간소화함.
