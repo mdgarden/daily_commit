@@ -29,7 +29,7 @@ js에서 html 작성하기
 ```jsx
 const wrapper = document.querySelector(".wrapper");
 
-const addWelcome = () => {
+const **addWelcome** = () => {
   const potato = document.createElement("div");
   const h1 = document.createElement("h1");
   h1.innerText = "Hello";
